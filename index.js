@@ -1,7 +1,7 @@
 // Write your solution in this file!
 
 // Declare customerName to be bob in global scope
-let customerName = "bob";
+var customerName = "bob";
 
 
 // Define a function that uppercases the customerName variable
